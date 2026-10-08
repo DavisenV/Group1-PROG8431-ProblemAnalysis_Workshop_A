@@ -22,7 +22,7 @@ The objective is to:
 ├── data/
 │   ├── predictive_maintenance.csv             # Extracted predictive maintenance dataset
 │   └── predictive_maintenance.zip             # Downloaded archive (ignored in Git)
-├── Problem_Analysis_Workshop_A.ipynb          # Main deliverable Jupyter Notebook
+├── Workshop_A.ipynb                           # Main deliverable Jupyter Notebook
 ├── .gitignore                                 # Ignores archives, checkpoints, and bytecode
 └── README.md                                  # Project documentation
 
